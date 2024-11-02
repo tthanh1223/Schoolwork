@@ -29,7 +29,6 @@ if __name__ == '__main__':
     n, q = map(int, input().split())
     A = list(map(int, input().split()))
     P = list(map(int, input().split()))
-    if n == 0
     # Process queries
     results = []
     handler = QueryHandler(A, P)
